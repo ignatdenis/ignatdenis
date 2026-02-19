@@ -1,33 +1,23 @@
-# Hi there, I'm Denis 👋
+# Hi, I'm Denis! 👋
 
-I'm a Computer Science student with a solid foundation in algorithms and problem-solving, always eager to explore new technologies and broaden my technical horizons.
+### 👨‍💻 I am a ...
+* 🎓 1st-year Computer Science student at **UAIC (FII)**
+* 🧠 Hardworker, passionate about algorithms and problem-solving
+* 🚀 Actively looking for a **Software Engineering Internship**
 
-## 🚀 About Me
-* [cite_start]🎓 First-year student at the **Faculty of Computer Science, UAIC (FII)**[cite: 1, 3, 24].
-* [cite_start]💻 My core experience lies in **C and C++**, applying concepts from Data Structures and Algorithm Design[cite: 22, 27].
-* [cite_start]🐧 Currently diving deep into Operating Systems and expanding my practical skills in **Linux**.
-* [cite_start]🔧 I also have working knowledge of **C#** and Object-Oriented Programming (OOP).
-* 🎯 **Goal:** Actively looking for a Software Engineering Internship to apply my current knowledge, learn from experienced teams, and discover new areas of software development.
+### ⌨️ My current skills are ...
+* ⚙️ **Core:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) (Data Structures, Algorithms)
+* 🌐 **Familiar with:** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) (OOP concepts)
+* 🐧 **Getting comfortable with:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) (OS Concepts)
 
-## 🛠️ Tech Stack & Tools
+### 📖 What I want to learn ...
+* 🌱 Scalable backend development and databases
+* 🛠️ Advanced Git and real-world software architecture
+* 🤝 Exploring new tech fields — I'm highly adaptable and open to learning!
 
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+### 📂 Highlighted Projects
+* 📈 **Math Function Visualizer** — A C++ application for calculating, rendering, and visualizing complex mathematical functions.
+* 🧵 **Custom String Library** — A from-scratch recreation of the C `cstring` library to deepen my understanding of pointer arithmetic and memory management.
 
-### OS & Version Control
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## 📂 Highlighted Projects
-
-### 📈 Math Function Visualizer
-A C++ application designed to calculate, render, and visualize mathematical functions. This project demonstrates applied mathematics, logic, and rendering capabilities.
-
-### 🧵 Custom String Library
-A ground-up recreation of the standard C `cstring` library (featuring custom implementations for splitting, concatenation, and memory manipulation). Implemented in both C++ and C# to deepen my understanding of pointer arithmetic, memory management, and algorithmic efficiency.
-
-## 📫 Let's Connect
-* **LinkedIn:** [Pune Link-ul Tău Aici]
-* **Email:** [Pune Adresa Ta De Email Aici]
+---
+📫 **Let's Connect:** [https://www.linkedin.com/in/denis-ignat-3357b838a/] | [ignat.denispetronel@gmail.com]
