@@ -1,7 +1,7 @@
 # Hi, I'm Denis! 👋
 
 ### 👨‍💻 I am a ...
-*  1st-year Computer Science student at **UAIC (FII)**
+*  2nd-year Computer Science student at **UAIC (FII)**
 *  Hardworker, passionate about algorithms and problem-solving
 *  Actively looking for a **Software Engineering Internship**
 
