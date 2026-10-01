@@ -7,8 +7,8 @@
 
 ### ⌨️ My current skills are ...
 *  **Core:** C, C++, C#
-*  **Familiar with:** HTML, SQL
-*  **Getting comfortable with:** Linux
+*  **Familiar with:** HTML, SQL, Assembly, R
+*  **Getting comfortable with:** Linux, Rust
 
 ### 📖 What I want to learn ...
 *  Scalable backend development and databases
