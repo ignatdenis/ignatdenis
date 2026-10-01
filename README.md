@@ -10,11 +10,6 @@
 *  **Familiar with:** HTML, SQL, Assembly, R
 *  **Getting comfortable with:** Linux, Rust
 
-### 📖 What I want to learn ...
-*  Scalable backend development and databases
-*  Advanced Git and real-world software architecture
-*  Exploring new tech fields — I'm highly adaptable and open to learning!
-
 ### 📂 Highlighted Projects
 *  **POSIX FileOps Manager** — A high-performance, concurrent file system indexer in C using a Manager-Worker architecture, POSIX IPC, and custom binary database storage.
 *  **Math Function Visualizer** — A C++ application for calculating, rendering, and visualizing complex mathematical functions.
