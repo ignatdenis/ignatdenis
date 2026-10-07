@@ -7,8 +7,8 @@
 
 ### Current Skills:
 *  **Core:** C, C++, C#
-*  **Familiar with:** HTML, SQL, Assembly, R
-*  **Getting comfortable with:** Linux, Rust
+*  **Familiar with:** HTML, SQL, Assembly, R, Linux
+*  **Getting comfortable with:** Rust
 
 ### Highlighted Projects:
 *  **POSIX FileOps Manager** — A high-performance, concurrent file system indexer in C using a Manager-Worker architecture, POSIX IPC, and custom binary database storage.
